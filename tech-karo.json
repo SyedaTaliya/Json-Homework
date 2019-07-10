@@ -1,0 +1,140 @@
+let tech-karo = [
+
+
+
+    students{
+    firstName: "Syeda",
+    lastName : "Taliya",
+    fatherName : "Syed Iqtidar Ali",
+    qualification : "Graduated",
+    phoneNumber : "0321-65457527",
+    address : "PECHS Society"
+    age : "22",
+    NIC-Number : "42401-788888939-1",
+    fees : "500",
+    admissionDate : "march-1-2019",
+    E-mailAddress : "syedatalea97@gmail.com"
+    },
+
+
+    {firstName: "Sana",
+    lastName : "Ishaque",
+    fatherName : "Ishaque",
+    qualification : "Graduated",
+    phoneNumber : "0321-65457632",
+    address : "Gulshan"
+    age : "22",
+    NIC-Number : "42401-788352939-1",
+    fees : "500",
+    admissionDate : "march-1-2019",
+    E-mailAddress : "sana45@gmail.com"
+    },
+
+
+    {
+    firstName: "Farheen",
+    lastName : "Shadani",
+    fatherName : "Shadani",
+    qualification : "Graduated",
+    phoneNumber : "0321-65457947",
+    address : "Gulistan E Johar"
+    age : "22",
+    NIC-Number : "42401-78888857-1",
+    fees : "500",
+    admissionDate : "march-1-2019",
+    E-mailAddress : "farheen76@gmail.com"
+    },
+
+
+    {firstName: "Sofia",
+    lastName : "chaudhry",
+    fatherName : "chaudhry",
+    qualification : "Graduated",
+    phoneNumber : "0321-65457527",
+    address : "kaneez Fatima Society"
+    age : "24",
+    NIC-Number : "42401-703973332-4",
+    fees : "500",
+    admissionDate : "march-1-2019",
+    E-mailAddress : "sofia32@gmail.com"
+    },
+
+    
+    {
+    firstName: "Arfa",
+    lastName : "chaudhry",
+    fatherName : "chaudhry",
+    qualification : "Graduated",
+    phoneNumber : "0321-6587633",
+    address : "Kaneez Fatima Society"
+    age : "24",
+    NIC-Number : "42401-788887367332-4",
+    fees : "500",
+    admissionDate : "march-1-2019",
+    E-mailAddress : "arfa7@gmail.com"
+    }
+
+
+
+    teachers{
+        name : "Sarah Ahmed",
+        phoneNumber : "0333-1234231",
+        qualification : "BSC",
+        salary : "",
+        E-mailAddress : "sarah-ahmed@gmail.com"
+    },
+    {
+        name : "Tubba Mohsin",
+        phoneNumber : "0333-124733",
+        qualification : "BSC",
+        salary : "",
+        E-mailAddress : "tubba-mohsin@gmail.com"
+    }
+
+
+    techNinjas{
+        name : "Ali",
+        qualification : "",
+        phoneNumber : "0345-7256334",
+        salary : "",
+        E-mailAddress : "ali123@gmail.com",
+        address : "malir",
+        NIC-Number : "82756378567467",
+    },
+    {
+        name : "Khair-Un-Nisa",
+        qualification : "",
+        phoneNumber : "0345-72875643",
+        salary : "",
+        E-mailAddress : "khair123@gmail.com",
+        address : "gulshan",
+        NIC-Number : "827563787674",
+    },
+    {
+        name : "Naureen",
+        qualification : "",
+        phoneNumber : "0345-58334463",
+        salary : "",
+        E-mailAddress : "naurreen32@gmail.com",
+        address : "korangi",
+        NIC-Number : "9782664985644",
+    }, 
+
+
+
+    sponsers{
+    organizationName : "Engro Vopak",
+    owner'sName : "oiuiwu",
+    contactNumber "92-21-111-211-211",
+    address : "8th Floor, Harbour Front Building, Marine Drive, Block 4,
+    Clifton, Karachi, Pakistan",
+    },
+    {
+    organizationName : "circle",
+    owner'sName : "oughk",
+    contactNumber "92-21-111-211-211",
+    address : "8th Floor, Harbour Front Building, Marine Drive, Block 4,
+    Clifton, Karachi, Pakistan",
+    }
+
+]

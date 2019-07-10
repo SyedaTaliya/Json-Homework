@@ -1,0 +1,113 @@
+let names = [
+
+{
+displayPicture :
+name : "Aleesha",
+number : "0345-1234567",
+message : "where are yew?",
+time : 6:30pm
+}
+
+
+{
+displayPicture :
+name : "Sana",
+number : "0300-876543",
+message : "in class..",
+time : 2:30pm 
+}
+
+
+{
+displayPicture :
+name : "Farheen",
+number : "0345-7375374",
+message : ":D :D :D",
+time : 2:30am 
+}
+
+
+{
+displayPicture :
+groupName : "Madness Queens",
+membersName : "Taliya, Sana, Farheen",
+numbers = [0323-6256862, 0321-275476, 0300-48764333],
+message : "girls?",
+time : 9:13pm 
+}
+
+
+{
+name : "Yousra",
+number : "0345-1763658",
+message : "sogai?",
+time : 3:26am Yesterday
+}
+
+{
+name : "Asfa",
+number : "0345-1234567",
+message : "how are yew?",
+time : 1:30am Yesterday
+}
+
+
+{
+name : "Unknown",
+number : "0345-63666547",
+message : "fruit shop bana lya?",
+time : 4:47pm Tuesday
+}
+
+
+{
+name : "CR",
+number : "0345-17746874",
+message : "address send karun?",
+time : 11:39pm Tuesday
+}
+
+
+{
+name : "Raiba",
+number : "0345-7536563",
+message : "get well soon",
+time : 8:24pm Tuesday
+}
+
+
+{
+name : "Sir Sayem",
+number : "0345-1763658",
+message : "Yess",
+time : 3:26pm Monday
+}
+
+
+
+{
+groupName : "Popper.js Responsive",
+displayPicture : C:\Users\Glow computers\Desktop\Json\popper-pp.jpg,
+membersName : "Taliya, Maham, Ali, Altaf Hussain, Ahmed",
+numbers = [0323-6256874, 0321-2758332, 0300-4876432, 0331-8967375, 0300-74214567],
+message : "have everyone completed project?",
+time : 9:22pm Monday
+}
+
+
+{
+name : "Minhaj",
+number : "0345-7586335",
+message : "thikey",
+time : 12:24pm Sunday
+}
+
+
+{
+name : "Bhai",
+number : "0345-7536563",
+message : "han beta",
+time : 10:44pm Sunday
+}
+
+]
